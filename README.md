@@ -6,4 +6,4 @@ https://www.datacamp.com/tracks/data-scientist-with-python
 
 84 hours
 22 Courses
-$118,000/year
+Estimated Salary: $118,000/year
